@@ -1,2 +1,2 @@
 # cplusplus-the-coding-interview
-C++ solutions to exercises in 'Cracking the Coding Interview'
+My C++ solutions to exercises in 'Cracking the Coding Interview'
